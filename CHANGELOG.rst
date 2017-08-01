@@ -2,6 +2,14 @@
 Changelog for package sick_visionary_t_driver
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+0.0.4 (2017-08-01)
+------------------
+* Merge branch 'indigo-devel' into indigo_release_candidate
+* add SICK copyright
+* reflect apache license in source files
+* add additional maintainer
+* Contributors: Florian Weisshardt, Richard Bormann
+
 0.0.3 (2016-10-11)
 ------------------
 * rename to visionary in changelog
