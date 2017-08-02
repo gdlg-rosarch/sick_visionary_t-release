@@ -1,0 +1,9 @@
+ros-kinetic-sick-visionary-t (0.0.5-0xenial) xenial; urgency=high
+
+  * changed license and web-url
+  * added metapackage
+  * Contributors: Richard Bormann
+
+ -- Joshua Hampp <joshua.hampp@ipa.fraunhofer.de>  Mon, 31 Jul 2017 22:00:00 -0000
+
+
