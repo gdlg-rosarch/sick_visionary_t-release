@@ -1,0 +1,12 @@
+Source: ros-kinetic-sick-visionary-t-driver
+Section: misc
+Priority: extra
+Maintainer: Joshua Hampp <joshua.hampp@ipa.fraunhofer.de>
+Build-Depends: debhelper (>= 9.0.0), ros-kinetic-catkin, ros-kinetic-cv-bridge, ros-kinetic-image-transport, ros-kinetic-roscpp, ros-kinetic-roslaunch, ros-kinetic-sensor-msgs
+Homepage: http://wiki.ros.org/sick_visionary_t_driver
+Standards-Version: 3.9.2
+
+Package: ros-kinetic-sick-visionary-t-driver
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ros-kinetic-cv-bridge, ros-kinetic-image-transport, ros-kinetic-roscpp, ros-kinetic-roslaunch, ros-kinetic-sensor-msgs
+Description: Open source driver for the SICK Visionary-T 3D TOF camera.
